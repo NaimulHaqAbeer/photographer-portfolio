@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Libby';
+	src: url('/fonts/LibbyRegular.ttf');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'Libby';
+	src: url('/fonts/LibbyBold.ttf');
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: 'Libby';
+	src: url('/fonts/LibbyHeavy.ttf');
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'NobelBook';
+	src: url('/fonts/NobelBook.otf');
+}
