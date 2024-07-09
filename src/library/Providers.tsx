@@ -1,10 +1,11 @@
 'use client';
 
 import { store } from '@/store/store';
-import theme from '@/theme/theme';
+// import theme from '@/theme/theme';
 import { ChakraProvider } from '@chakra-ui/react';
 import { FC, ReactNode } from 'react';
 import { Provider } from 'react-redux';
+import theme from './theme/theme';
 
 const Providers: FC<{ children: ReactNode }> = ({ children }) => {
 	return (
